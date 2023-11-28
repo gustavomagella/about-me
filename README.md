@@ -5,6 +5,8 @@
  <tr><td><a href="README_pt-br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
+### 👋🏼🌹❤️ &nbsp; E aí seus trem bunitows!? Tudo bem com vocês?
+
 &nbsp;&nbsp;&nbsp; 🌩️ Hoje, atuo como Cloud Security Architect na [IBM](https://www.ibm.com/);\
 &nbsp;&nbsp;&nbsp; 💼 Trabalhando na área da tecnologia há +15 anos;\
 &nbsp;&nbsp;&nbsp; 🎸 Apaixonado por música (multi-instrumentista frustrado), tecnologia e comunidades!;\
