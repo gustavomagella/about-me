@@ -16,7 +16,7 @@
 
 ---
 
-### 💬 &nbsp; Bora trocar uma idéia? Me siga nas redes sociais!
+### 💬 &nbsp; Bora trocar uma idéia? Me siga nas redes sociais! <br>
 
 <p align="center">
   <a href="mailto:contato@gustavomagella.com?subject=Olá%20Magella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
@@ -24,6 +24,7 @@
   <a href="https://www.instagram.com/cloud_magella/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
   <a href="https://www.linkedin.com/in/gustavomagella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
 </p>
+<br>
 ---
 
 <p align="center">
