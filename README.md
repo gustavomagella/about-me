@@ -8,11 +8,11 @@
 ---
 
 &nbsp;&nbsp;&nbsp; 🌩️ Hoje, atuo como Cloud Security Architect na [IBM](https://www.ibm.com/);\
-&nbsp;&nbsp;&nbsp; 💼 Trabalhando com tecnologia há +15 anos, iniciei minha carreira como técnico de suporte, passando por analista, engenheiro, especialista e agora arquiteto de soluções e especialista em cybersegurança;\
+&nbsp;&nbsp;&nbsp; 💼 Trabalhando na área da tecnologia há +15 anos;\
 &nbsp;&nbsp;&nbsp; 🎸 Apaixonado por música (multi-instrumentista frustrado), tecnologia e comunidades!;\
 &nbsp;&nbsp;&nbsp; 🧠 Design Thinker e Problem Solver por natureza;\
 &nbsp;&nbsp;&nbsp; 📚 Estudante eterno sobre Cybersecurity (Red Team e Blue Team) e Cloud Computing;\
-&nbsp;&nbsp;&nbsp; 🇮🇪 Hoje, moro na Irlanda. Meu recanto e paraíso nesse Mundo!🍀🌍;\
+&nbsp;&nbsp;&nbsp; 🍀 Hoje, moro na Irlanda. Meu recanto e paraíso nesse Mundo! 🌍;\
 
 ---
 
