@@ -15,8 +15,10 @@
 &nbsp;&nbsp;&nbsp; 🍀 Hoje, moro na Irlanda. Meu recanto e paraíso nesse Mundo! 🌍;
 </br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/DevSecOps-orange"> <br> <img src="https://img.shields.io/badge/(-darkred"> <img src="https://img.shields.io/badge/Red Team-darkred"> <img src="https://img.shields.io/badge/+-yellow"> <img src="https://img.shields.io/badge/Blue Team-darkblue"> <img src="https://img.shields.io/badge/)-darkblue"> <img src="https://img.shields.io/badge/=-purple"> <img src="https://img.shields.io/badge/Purple Team-purple"> <br> <img src="https://img.shields.io/badge/Regulatory & Compliance-gray"> <img src="https://img.shields.io/badge/Design Thinking-blue">
+#### ⚙ &nbsp; Principal Domínio Tecnológico.
+
+<p align="left">
+<img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/Threat Intelligence-pink"> <img src="https://img.shields.io/badge/DevSecOps-orange"> <br> <img src="https://img.shields.io/badge/(-darkred"> <img src="https://img.shields.io/badge/Red Team-darkred"> <img src="https://img.shields.io/badge/+-yellow"> <img src="https://img.shields.io/badge/Blue Team-darkblue"> <img src="https://img.shields.io/badge/)-darkblue"> <img src="https://img.shields.io/badge/=-purple"> <img src="https://img.shields.io/badge/Purple Team 💜-purple"> <br> <img src="https://img.shields.io/badge/Architecture-darkorange"> <img src="https://img.shields.io/badge/Regulatory & Compliance-gray"> <img src="https://img.shields.io/badge/Design Thinking-blue">
 </p>
 
 ---
@@ -32,14 +34,3 @@
 </p>
 
 ---
-
-<details>
-  <summary><b>&nbsp;Principal Domínio Tecnológico</b></summary>
-  <br/>
-
-![Cloud Computing](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![CyberSecurity](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![IaC - Infrastructure as Code](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Containers](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-
-</details>
