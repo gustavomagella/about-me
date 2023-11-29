@@ -34,7 +34,8 @@
   <a href="mailto:contato@gustavomagella.com?subject=Olá%20Magella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
   <a href="https://www.facebook.com/gustavomagella"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>    
   <a href="https://www.instagram.com/cloud_magella/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
-  <a href="https://www.linkedin.com/in/gustavomagella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+  <a href="https://www.linkedin.com/in/gustavomagella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>     
+  <a href="https://www.youtube.com/channel/UC7thmebssVdkcWtwfXQKtiA"><img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>    
 </p>
 
 ---
