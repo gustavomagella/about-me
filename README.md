@@ -13,20 +13,7 @@
 &nbsp;&nbsp;&nbsp; 🧠 Design Thinker e Problem Solver por natureza; \
 &nbsp;&nbsp;&nbsp; 📚 Estudante eterno sobre Cybersecurity (Red Team e Blue Team) e Cloud Computing; \
 &nbsp;&nbsp;&nbsp; 🍀 Hoje, moro na Irlanda. Meu recanto e paraíso nesse Mundo! 🌍;
-
----
-
-#### 💬 &nbsp; Bora trocar uma idéia!? Me siga nas redes sociais!
-
 </br>
-
-<p align="center">
-  <a href="mailto:contato@gustavomagella.com?subject=Olá%20Magella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
-  <a href="https://www.facebook.com/gustavomagella"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>    
-  <a href="https://www.instagram.com/cloud_magella/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
-  <a href="https://www.linkedin.com/in/gustavomagella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
-</p>
-<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/DevSecOps-orange"> <br> <img src="https://img.shields.io/badge/(-darkred"> <img src="https://img.shields.io/badge/Red Team-darkred"> <img src="https://img.shields.io/badge/+-yellow"> <img src="https://img.shields.io/badge/Blue Team-darkblue"> <img src="https://img.shields.io/badge/)-darkblue"> <img src="https://img.shields.io/badge/=-purple"> <img src="https://img.shields.io/badge/Purple Team-purple"> <br> <img src="https://img.shields.io/badge/Regulatory & Compliance-gray"> <img src="https://img.shields.io/badge/Design Thinking-blue">
@@ -34,14 +21,25 @@
 
 ---
 
-[pt-br]
+### 💬 &nbsp; Bora trocar uma idéia!? Me siga nas redes sociais!
+
+</br>
+<p align="center">
+  <a href="mailto:contato@gustavomagella.com?subject=Olá%20Magella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
+  <a href="https://www.facebook.com/gustavomagella"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>    
+  <a href="https://www.instagram.com/cloud_magella/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>    
+  <a href="https://www.linkedin.com/in/gustavomagella/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+</p>
 
 ---
 
-# Technical Certifications 🏆
+<details>
+  <summary><b>&nbsp;Principal Domínio Tecnológico</b></summary>
+  <br/>
 
-## Microsoft Certifications
+![Cloud Computing](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![CyberSecurity](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![IaC - Infrastructure as Code](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Containers](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 
-## IBM Certifications
-
-## EXIN Certifications
+</details>
