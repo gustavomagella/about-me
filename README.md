@@ -16,7 +16,9 @@
 
 ---
 
-#### 💬 &nbsp; Bora trocar uma idéia!? Me siga nas redes sociais! </br>
+#### 💬 &nbsp; Bora trocar uma idéia!? Me siga nas redes sociais!
+
+</br>
 
 <p align="center">
   <a href="mailto:contato@gustavomagella.com?subject=Olá%20Magella"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>    
