@@ -1,8 +1,8 @@
 # about-me
 
 <table align="right">
- <tr><td><a href="README.md"><img src=".assets/icons/flag-uk.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt-br.md"><img src=".assets/icons/flag-br.png" height="13"> Português Brasil</a></td></tr>
+ <tr><td><a href="README.md"><img src=".assets/icons/flag-uk.png" height="20">   English</a></td></tr>
+ <tr><td><a href="README_pt-br.md"><img src=".assets/icons/flag-br.png" height="20">   Português Brasil</a></td></tr>
 </table>
 
 ### 👋🏼 &nbsp; E aí seus trem bunitows!? Tudo bem com vocês? 🌹❤️
